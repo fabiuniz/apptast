@@ -1,10 +1,9 @@
-import 'package:flutter/material.dart';
-import 'package:myapp/ui/_core/app_colors.dart';
+import 'package:flutter/widgets.dart';
+import 'package:myapp/ui/_core/app_collors.dart';
 
 class CategoryWidget extends StatelessWidget {
   final String category;
   const CategoryWidget({super.key, required this.category});
-
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -21,13 +20,10 @@ class CategoryWidget extends StatelessWidget {
         spacing: 8.0,
         children: [
           Image.asset(
-            "assets/categories/${category.toLowerCase()}.png",
+            "assets/banners/${category.toLowerCase()}.pnp",
             height: 48,
           ),
-          Text(
-            category,
-            style: TextStyle(fontSize: 16.0, fontWeight: FontWeight.bold),
-          ),
+          Text(category, style: TextStyle(fontSize: 16.0)),
         ],
       ),
     );

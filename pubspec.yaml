@@ -63,7 +63,9 @@ flutter:
     - assets/dishes/
     - assets/others/
     - assets/restaurants/
+# copiar pastas assets
 # rodar flutter pub get
+# rodar flutter add provider
 #https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f
 #https://github.com/alura-cursos/flutter_techtaste
 #https://github.com/alura-cursos/flutter_techtaste/tree/main/assets

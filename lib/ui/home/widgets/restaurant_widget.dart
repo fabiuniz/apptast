@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/model/restaurant.dart';
-import 'package:myapp/ui/restaurant/restaurant_screen.dart';
 
 class RestaurantWidget extends StatelessWidget {
   final Restaurant restaurant;
@@ -14,7 +13,7 @@ class RestaurantWidget extends StatelessWidget {
           context,
           MaterialPageRoute(
             builder: (context) {
-              return RestaurantScreen(restaurant: restaurant);
+              return RestaurantWidget(restaurant: restaurant);
             },
           ),
         );
