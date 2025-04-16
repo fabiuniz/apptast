@@ -1,8 +1,9 @@
+import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
-import 'package:myapp/ui/_core/bag_provider.dart';
+import 'package:myapp/ui/_core/widgets/bag_provider.dart';
 import 'package:myapp/ui/checkout/checkout_screen.dart';
 import 'package:provider/provider.dart';
-import 'package:badges/badges.dart' as badges;
+
 
 AppBar getAppBar({required BuildContext context, String? title}) {
   BagProvider bagProvider = Provider.of<BagProvider>(context);

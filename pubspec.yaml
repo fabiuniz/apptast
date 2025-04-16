@@ -38,7 +38,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  badges: ^2.0.3 # ou a versão mais recente
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
@@ -65,7 +65,7 @@ flutter:
     - assets/restaurants/
 # copiar pastas assets
 # rodar flutter pub get
-# rodar flutter add provider
+# rodar flutter pub add provider
 #https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f
 #https://github.com/alura-cursos/flutter_techtaste
 #https://github.com/alura-cursos/flutter_techtaste/tree/main/assets
