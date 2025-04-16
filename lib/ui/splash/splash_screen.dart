@@ -41,10 +41,10 @@ class SplashScreen extends StatelessWidget {
                     child: ElevatedButton(
                       onPressed: () {
                         Navigator.pushReplacement(
-                          context, 
+                          context,
                           MaterialPageRoute(
                             builder: (context) {
-                              return HomeScreen(); 
+                              return HomeScreen();
                             },
                           ),
                         );
