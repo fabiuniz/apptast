@@ -12,7 +12,7 @@ Agradecimentos à equipe da Alura por proporcionar um curso prático e envolvent
 
 O **TechTaste** é um aplicativo mobile desenvolvido com **Flutter** para facilitar a descoberta e o pedido de pratos em restaurantes. Ele oferece uma interface amigável para explorar restaurantes, suas categorias, pratos disponíveis e gerenciar uma sacola de pedidos. O aplicativo utiliza uma abordagem orientada a dados, carregando informações de restaurantes a partir de um arquivo JSON local.
 
-![Logo](assets/tast.jpj)
+![Logo](assets/tast.jpg)
 
 ### 🔑 Funcionalidades
 - **Tela de Splash** 🎨: Apresenta uma introdução visual ao aplicativo.
