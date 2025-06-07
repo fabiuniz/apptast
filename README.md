@@ -103,3 +103,11 @@ Um agradecimento especial à equipe da **Alura** pelo curso **Imersão Flutter**
 ---
 
 **Nota** 📝: Este projeto reflete as melhores práticas para desenvolvimento de aplicativos Flutter, com foco em gerenciamento de estado, UI responsiva e integração de dados locais. Para mais detalhes, consulte o repositório ou entre em contato!
+
+## 👨‍💻 Autor
+
+[Fabiano Rocha/Fabiuniz]
+
+## Licença
+
+[MIT License]
